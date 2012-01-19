@@ -1,0 +1,42 @@
+.NoteNav-Left
+{
+	background-image:url(images/nav-left.png);
+	font-family:"Comic Sans MS", cursive;
+
+
+	width:116px;
+	height:91px;
+	cursor:pointer;
+}
+.NoteNav-Center
+{
+	background-image:url(images/nav-center.png);
+	font-family:"Comic Sans MS", cursive;
+
+
+	width:130px;
+	height:89px;
+	cursor:pointer;
+}
+.NoteNav-Right
+{
+	background-image:url(images/nav-right.png);
+	font-family:"Comic Sans MS", cursive;
+	
+
+	width:115px;
+	height:90px;
+	cursor:pointer;
+}
+.NoteNav
+{
+	font-size:14px;
+	text-align:center;	
+	overflow:hidden;
+}
+.NoteNav:hover
+{
+	font-weight:700;
+	font-style:oblique;
+	text-shadow: 2px 2px #CCC;
+}

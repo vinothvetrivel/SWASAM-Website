@@ -1,0 +1,50 @@
+	body
+	{
+		background-color:#96F;
+		background-image:url(images/bgpattern.png);
+		background-repeat:repeat;
+		cursor:url('use151.cur');
+	}
+	#TheNotebook
+	{
+		margin:0 auto;
+		width:820px;
+		height:966px;
+		background-image:url(images/Notebook.png);
+		overflow:hidden;
+	}
+	#InsideNotebook
+	{
+		
+		position:relative;
+		top:100px;
+		left:60px;
+		max-width:730px;
+		max-height:750px;
+		
+	}
+	#Content
+	{
+		max-width:inherit;
+		max-height:590px;
+		overflow:hidden;
+	}
+	#ContentFrame
+	{
+		
+	}
+	#Header
+	{
+		max-width:inherit;
+	}
+	#Header>img
+	{
+		max-width:inherit;
+		
+	}
+	#Footer
+	{
+		position:relative;
+		top:150px;
+		left:300px;
+	}
